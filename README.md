@@ -1,9 +1,7 @@
 # UI Component Library
-A UI Component Library designed and created by me for the following reasons
-- css practice
-- to use in assignments
+A very tiny UI css class library designed by me for css practice and because its fun!
 
-## Current Components:
+## Current Components (7):
 - Dropdown
 - Buttons
 - Card
